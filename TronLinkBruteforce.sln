@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TronLinkBruteforce", "TronLinkBruteforce\TronLinkBruteforce.csproj", "{542C7CD0-9B01-4A82-95CC-5D1358B6C366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TronLinkBruteforce.Tests", "TronLinkBruteforce.Tests\TronLinkBruteforce.Tests.csproj", "{954FBFEE-5869-47D3-845C-FC927A7DD7F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542C7CD0-9B01-4A82-95CC-5D1358B6C366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542C7CD0-9B01-4A82-95CC-5D1358B6C366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542C7CD0-9B01-4A82-95CC-5D1358B6C366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542C7CD0-9B01-4A82-95CC-5D1358B6C366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954FBFEE-5869-47D3-845C-FC927A7DD7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954FBFEE-5869-47D3-845C-FC927A7DD7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954FBFEE-5869-47D3-845C-FC927A7DD7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954FBFEE-5869-47D3-845C-FC927A7DD7F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
